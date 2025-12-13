@@ -1,12 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:5.041667,
-http://ts2.tvcluboficial.com/videos/nosignal/00.ts?stream=Canal5_2&error=ld
-#EXTINF:5.000000,
-http://ts2.tvcluboficial.com/videos/nosignal/01.ts?stream=Canal5_2&error=ld
-#EXTINF:3.083333,
-http://ts2.tvcluboficial.com/videos/nosignal/02.ts?stream=Canal5_2&error=ld
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+
