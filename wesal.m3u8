@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://e.siar.us/live/tvmu.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
