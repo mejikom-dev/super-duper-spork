@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://raw.githubusercontent.com/aufannada/streaming/refs/heads/main/hbosignature.m3u8
+#EXT-X-VERSION:1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+http://tv.casindo.org/hls/29/29.m3u8
