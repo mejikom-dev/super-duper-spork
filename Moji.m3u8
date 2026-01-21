@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://tv.casindo.org/hls/50/50.m3u8
+http://filex.tv:8080//live/shafiq02/1234/302279.m3u8
